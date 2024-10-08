@@ -1,1 +1,1 @@
-# Lab-7---Vis-o-Computacional
+# Lab-7---Visao-Computacional
